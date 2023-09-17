@@ -1,3 +1,3 @@
-# PUG-SCIE
+# SCEI - Sistema de Controle de Eventos Intituicional
 
 ...
